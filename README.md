@@ -1,7 +1,7 @@
 ### Here are some small flutter tasks
 #### 1. Counter App using Cubit State Management
 
-![CounterAppRes](https://github.com/Mirna-tarek/small_projects/assets/138698096/99bba2e3-3efc-4a15-b570-012a0972d382)
+![CounterAppRes2](https://github.com/Mirna-tarek/small_projects/assets/138698096/0d14933a-44f8-4f02-8724-16aa30c6a1db)
 
 #### 2. Splash Screen and onboarding using liquidswipe
 
